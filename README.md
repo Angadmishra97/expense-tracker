@@ -1,16 +1,36 @@
-# React + Vite
+# 💰 Expense Tracker App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive web application designed to help users track their daily income and expenses, manage budgets, and gain better insights into their personal finances.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+* **Add & Delete Expenses:** Quickly log income or expense transactions with amount, category, and date.
+* **Category Tracking:** Organize expenses into categories like Food, Bills, Shopping, Entertainment, etc.
+* **Balance Overview:** Real-time display of Total Income, Total Expenses, and Remaining Balance.
+* **Interactive Dashboard:** Clear visual summary to help track spending habits.
+* **Responsive Design:** Fully optimized for mobile, tablet, and desktop views.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* **Frontend:** React / Vite, JavaScript (ES6+), HTML5, CSS3
+* **Icons & UI:** Lucide React / FontAwesome (if used)
+* **Version Control:** Git, GitHub
+
+---
+
+## 🚀 Getting Started
+
+Follow these steps to set up and run the project locally on your system.
+
+### Prerequisites
+Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/Angadmishra97/expense-tracker.git](https://github.com/Angadmishra97/expense-tracker.git)
